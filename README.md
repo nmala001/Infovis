@@ -33,7 +33,34 @@ The raw data thus obtained is converted into JSON format using the online JSON c
 
 ## Plots used to visualize data
 
+**1. Bubble Chart**
+
 This is a main view as most of the users consider genre as an important criteria to decide whether to watch it or not. Here we plot the Bubble chart for different genres based on the country filter provided at the top of the home page. All the data is in the file names “data.json” file. 
 
-![Bubble Chart](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![Bubble Chart](bubble.png)
+
+**2. Filtering**
+
+The data can be filtered according to the country selected to obtain the bubble chart view for the different genres of movies that are available that are produced by that country. This will help in identifying the country and language of the movie that the user is interested to watch.
+
+![Filtering](Filtering.png)
+
+**3. Circle Packing**
+
+Here, the filtering is provided to categorize the movies based on either the star cast or the director. Thus all the movies in the selected genre is pooled in different child circles inside the parent circle based on the rating obtained. This data is again sub divided and data is pooled in circles based on either the Actor or a Director in a certain rating range of the movie.
+
+![Circle Packing](Circle_Chart2.png)
+
+**4. Bar Graph**
+
+The Bar graphs are drawn to compare and contrast the important movie characteristics such as the percentage of movies in a selected genre that come under a certain range of years and also a bar graph showing the percentage of movies in a given range of duration. This will help the user to understand the trends that different genres of movies are following over the years. Some interesting comparisons like rise or fall of number of movies in a certain range of years can be made for all available genres.
+
+![Bar Graph](Bar_Graph.png)
+
+**5. Line Graph**
+
+Once the country is selected using the country filter a line chart displaying the trends for the data between 1990 and 2016 for the number of movies produced by that country over the years is generated which gives us some useful information. Several useful insights can be taken from the graph.
+One of the important observations that can be made include, how the number of movies over the years increased. Several comparisons can be drawn out between various genres or the same genre for different countries.
+
+![Line Graph](Line_Graph.png)
 
