@@ -37,7 +37,7 @@ The raw data thus obtained is converted into JSON format using the online JSON c
 
 This is a main view as most of the users consider genre as an important criteria to decide whether to watch it or not. Here we plot the Bubble chart for different genres based on the country filter provided at the top of the home page. All the data is in the file names “data.json” file. 
 
-![Bubble Chart](bubble.png)
+![Bubble Chart](bubblE_1.png)
 
 **2. Filtering**
 
