@@ -64,3 +64,5 @@ One of the important observations that can be made include, how the number of mo
 
 ![Line Graph](Line_Graph.png)
 
+**Several other plots were used to visualize the data which were discussed in detail in the Report**
+
