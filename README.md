@@ -31,7 +31,9 @@ The data thus obtained from the above process (Data crawling) may have many redu
 
 The raw data thus obtained is converted into JSON format using the online JSON converter. The dataset consists of the movies between 1915 and 2017. All the anomalies in the data have been excluded. It should be noted that, only the movies which have received the user votes greater than 25000 votes have been collected. 
 
+## Plots used to visualize data
 
+This is a main view as most of the users consider genre as an important criteria to decide whether to watch it or not. Here we plot the Bubble chart for different genres based on the country filter provided at the top of the home page. All the data is in the file names “data.json” file. 
 
-
+![Bubble Chart](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 
